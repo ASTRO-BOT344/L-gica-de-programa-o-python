@@ -16,6 +16,6 @@ notas.sort()
 print(notas)
 
 lista = [4,1,2,3]
-nova_lista = sorted(lista, reverse=true)
+nova_lista = sorted(lista, reverse = true) # type: ignore
 print(nova_lista)
 print(lista)

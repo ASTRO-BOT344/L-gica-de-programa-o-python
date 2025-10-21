@@ -4,7 +4,7 @@ if nt >=0 and nt < 5:
     print("Reprovado")
 
 elif nt >=0 and nt <7:
-    print("Recuperação")
+    print("Recuperação") 
 
 elif nt <= 10:
     print("Aprovado")
